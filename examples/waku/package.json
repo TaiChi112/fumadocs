@@ -14,7 +14,7 @@
     "fumadocs-ui": "workspace:*",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-server-dom-webpack": "^19.1.1",
+    "react-server-dom-webpack": "^19.1.5",
     "waku": "^0.26.1"
   },
   "devDependencies": {
@@ -25,7 +25,7 @@
     "@types/react-dom": "^19.1.9",
     "tailwindcss": "^4.1.13",
     "typescript": "^5.9.2",
-    "vite": "^7.1.5",
+    "vite": "^7.1.11",
     "vite-tsconfig-paths": "^5.1.4"
   }
 }
