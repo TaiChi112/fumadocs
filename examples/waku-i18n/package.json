@@ -15,7 +15,7 @@
     "fumadocs-ui": "workspace:*",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-server-dom-webpack": "^19.1.1",
+    "react-server-dom-webpack": "^19.1.5",
     "waku": "^0.26.1"
   },
   "devDependencies": {
